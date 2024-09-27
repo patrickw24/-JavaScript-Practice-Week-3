@@ -1,0 +1,14 @@
+input, select{
+    display:block;
+    margin-bottom:10px;
+}
+
+.error{
+    color:red;
+    display:block;
+}
+
+table, th, td{
+    border: 1px solid black; 
+    border-collapse: collapse;
+}

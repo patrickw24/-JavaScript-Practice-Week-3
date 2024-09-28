@@ -11,4 +11,12 @@ input, select{
 table, th, td{
     border: 1px solid black; 
     border-collapse: collapse;
+    padding:10px;
+    margin-top: 10px;
+}
+
+button{
+    background-color:rgb(143, 179, 143);
+    border:none;
+    padding: 10px;
 }
